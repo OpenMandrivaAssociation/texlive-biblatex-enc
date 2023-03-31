@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-enc
 Version:	44627
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for the Ecole nationale des chartes (Paris)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-enc
