@@ -3,7 +3,7 @@ Version:	44627
 Release:	2
 Summary:	BibLaTeX style for the Ecole nationale des chartes (Paris)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-enc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-enc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-enc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-enc.doc.r%{version}.tar.xz
